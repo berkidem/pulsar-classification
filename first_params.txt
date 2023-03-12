@@ -1,0 +1,1 @@
+booster:dartlambda:0.0003214621386645728alpha:9.14430241501814e-07subsample:0.43134139726273457colsample_bytree:0.41021804879201995max_depth:5min_child_weight:10eta:0.9222209435510054gamma:1.9823302681308873e-05grow_policy:lossguidesample_type:weightednormalize_type:forestrate_drop:1.0621384789194997e-07skip_drop:3.368458597381678e-07objective:multi:softprobnum_class:2
